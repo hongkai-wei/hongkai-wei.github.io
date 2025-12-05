@@ -19,7 +19,7 @@ redirect_from:
 
 **Nice to meet you, I am Hongkai Wei (魏弘凯)!**
 
-I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), supervised by [**Prof. Huansheng Song (宋焕生)**](https://js.chd.edu.cn/xxgcxy/shs), co-supervised by [**Prof. Shijie Sun (孙士杰)**](https://js.chd.edu.cn/sjkxyrgzn/ssj102). Currently, I am a Visiting Ph.D. Student at [**The University of Melbourne**](https://www.unimelb.edu.au/), working closely with [**Prof. Naveed Akhtar**](https://findanexpert.unimelb.edu.au/profile/1050019-naveed-akhtar). Before that, I received the B.S. degree from [**Chengdu University**](https://www.cdu.edu.cn).
+I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), supervised by [**Prof. Huansheng Song (宋焕生)**](https://js.chd.edu.cn/xxgcxy/shs), co-supervised by [**Prof. Shijie Sun (孙士杰)**](https://js.chd.edu.cn/sjkxyrgzn/ssj102). Currently, I am a Visiting Ph.D. Student at [**The University of Melbourne**](https://www.unimelb.edu.au/), working closely with [**Prof. Naveed Akhtar**](https://findanexpert.unimelb.edu.au/profile/1050019-naveed-akhtar). I received the B.S. degree from [**Chengdu University**](https://www.cdu.edu.cn).
 
 
 # 🔥 News
@@ -47,8 +47,9 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10 - now*, Computing and Information Systems, Visiting Ph.D., Chang'an University, Xi'an, Shaanxi, China.
+- *2019.06 - now*, Traffic Information Engineering & Control, Ph.D., Chang'an University, Xi'an, Shaanxi, China.
+- *2019.09 - 2023.06*, Computer Science & Technology, B.S., Chengdu University, Chengdu, Sichuan, China. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
