@@ -47,6 +47,6 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2025.10 - now*, Computing and Information Systems, Visiting Ph.D., Chang'an University, Xi'an, Shaanxi, China.
-- *2019.06 - now*, Traffic Information Engineering & Control, Ph.D., Chang'an University, Xi'an, Shaanxi, China.
-- *2019.09 - 2023.06*, Computer Science & Technology, B.S., Chengdu University, Chengdu, Sichuan, China. 
+- *2025.10 - now*, Computing and Information Systems, Visiting Ph.D., The University of Melbourne, Melbourne, Victoria, Australia.
+- *2023.09 - now*, Traffic Information Engineering and Control, Ph.D., Chang'an University, Xi'an, Shaanxi, China.
+- *2019.09 - 2023.06*, Computer Science and Technology, B.S., Chengdu University, Chengdu, Sichuan, China. 
