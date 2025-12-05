@@ -26,7 +26,7 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 - *2025.08*: &nbsp;🎉🎉 One paper accpeted by INFFUS! 
 - *2025.04*: &nbsp;🎉🎉 One paper accpeted by IJCNN 2025! 
 - *2025.02*: &nbsp;🎉🎉 One paper accpeted by CVPR 2025! 
-- *2025.02*: &nbsp;🎉🎉 One paper accpeted by CMPB 2025! 
+- *2025.02*: &nbsp;🎉🎉 One paper accpeted by CMPB! 
 - *2024.12*: &nbsp;🎉🎉 One paper accpeted by ICASSP 2025! 
 
 # 📝 Publications 
