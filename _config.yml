@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hongkai Wei"
-description              : "Hello Everyone."
+description              : "Ph.D. student at Chang'an University, China. Visiting Ph.D. student at The University of Melbourne, Australia."
 repository               : "hongkai-wei/hongkaiwei.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hongkai Wei"
   avatar           : "images/Profile.jpg"
-  bio              : "I'm a Ph.D. student at Chang'an University, China. Currently as a visiting Ph.D. student at The University of Melbourne, Australia."
+  bio              : "Research interests include Object Tracking and Vision-Language Models."
   location         : "Melbourne, Australia"
   employer         :
   pubmed           : 
