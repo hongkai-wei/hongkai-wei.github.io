@@ -82,7 +82,7 @@ Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 </div>
 </div>
 
-# 🎖 Honors and Awards 
+# 💫 Honors and Awards 
 
 - *2025.05* China Scholarship Council (CSC) Scholarship for the China-Built High-Level University Consortium Program.
 - *2024.12* National First Prize of China Graduate Contest on Smart-city Technology and Creative Design.
@@ -93,4 +93,9 @@ Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 # 📖 Educations
 - *2025.10 - now*, Computing and Information Systems, Visiting Ph.D., The University of Melbourne, Melbourne, Victoria, Australia.
 - *2023.09 - now*, Traffic Information Engineering and Control, Ph.D., Chang'an University, Xi'an, Shaanxi, China.
-- *2019.09 - 2023.06*, Computer Science and Technology, B.S., Chengdu University, Chengdu, Sichuan, China. 
+- *2019.09 - 2023.06*, Computer Science and Technology, B.S., Chengdu University, Chengdu, Sichuan, China.
+
+# 💬 Contact
+- **hongkaiwei@chd.edu.cn (Main)**
+- hongkai.wei@student.unimelb.edu.au
+- whkai666@gmail.com
