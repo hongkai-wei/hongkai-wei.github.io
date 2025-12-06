@@ -23,18 +23,18 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 One paper accpeted by INFFUS! 
+- *2025.08*: &nbsp;🎉🎉 One paper accpeted by INFFUS Journal! 
 - *2025.04*: &nbsp;🎉🎉 One paper accpeted by IJCNN 2025! 
 - *2025.02*: &nbsp;🎉🎉 One paper accpeted by CVPR 2025! 
-- *2025.02*: &nbsp;🎉🎉 One paper accpeted by CMPB! 
+- *2025.02*: &nbsp;🎉🎉 One paper accpeted by CMPB Journal! 
 - *2024.12*: &nbsp;🎉🎉 One paper accpeted by ICASSP 2025! 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS</div><img src='images/VGSurvey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS Journal</div><img src='images/VGSurvey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Visual Grounding in 2D and 3D: A unified perspective and survey](https://www.sciencedirect.com/science/article/pii/S1566253525006979) *INFFUS*
+[Visual Grounding in 2D and 3D: A unified perspective and survey](https://www.sciencedirect.com/science/article/pii/S1566253525006979) *INFFUS Journal*
 
 Keyu Guo, Yongle Huang, Tinglei Jia, Xiangyu Song, Shijie Sun, **Hongkai Wei**, Xian-Feng Han, Shuwen Huang, Nicola Strisciuglio ,Shuyan Li
 
@@ -65,7 +65,7 @@ Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMPB</div><img src='images/LMTTM-VMI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LMTTM-VMI: Linked Memory Token Turing Machine for 3D volumetric medical image classification](https://www.sciencedirect.com/science/article/abs/pii/S0169260725000574) *CMPB*
+[LMTTM-VMI: Linked Memory Token Turing Machine for 3D volumetric medical image classification](https://www.sciencedirect.com/science/article/abs/pii/S0169260725000574) *CMPB Journal*
 
 **Hongkai Wei**, Yang Yang, Shijie Sun, Mingtao Feng, Rong Wang, Xianfeng Han
 
@@ -83,7 +83,12 @@ Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 </div>
 
 # 🎖 Honors and Awards 
-- *2021.12* National Scholarship. 
+
+- *2025.05* China Scholarship Council (CSC) Scholarship for the China-Built High-Level University Consortium Program.
+- *2024.12* National First Prize of China Graduate Contest on Smart-city Technology and Creative Design.
+- *2023.06* Outstanding Graduates of Sichuan Province.
+- *2021.12* China National Scholarship.
+- *2021.10* National Third Prize of China University Computer Competition.
 
 # 📖 Educations
 - *2025.10 - now*, Computing and Information Systems, Visiting Ph.D., The University of Melbourne, Melbourne, Victoria, Australia.
