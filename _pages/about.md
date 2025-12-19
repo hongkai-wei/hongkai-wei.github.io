@@ -23,6 +23,7 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper accpeted by IJTST Journal! 
 - *2025.08*: &nbsp;🎉🎉 One paper accpeted by INFFUS Journal! 
 - *2025.04*: &nbsp;🎉🎉 One paper accpeted by IJCNN 2025! 
 - *2025.02*: &nbsp;🎉🎉 One paper accpeted by CVPR 2025! 
@@ -31,12 +32,22 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJTST Journal</div><img src='images/VTAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Traffic Anomaly Detection by Fusing Spatiotemporal Graphs and Visual Perception *IJTST Journal*
+
+**Hongkai Wei**, Yang Yang, Keyu Guo, Yongfeng Bu, Xiangyu Song, Haoxiang Liang, Shijie Sun, Haixiang Hu, Rong Wang, Naveed Akhtard
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS Journal</div><img src='images/VGSurvey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Visual Grounding in 2D and 3D: A unified perspective and survey](https://www.sciencedirect.com/science/article/pii/S1566253525006979) *INFFUS Journal*
 
-Keyu Guo, Yongle Huang, Tinglei Jia, Xiangyu Song, Shijie Sun, **Hongkai Wei**, Xian-Feng Han, Shuwen Huang, Nicola Strisciuglio ,Shuyan Li
+Keyu Guo, Yongle Huang, Tinglei Jia, Xiangyu Song, Shijie Sun, **Hongkai Wei**, Xian-Feng Han, Shuwen Huang, Nicola Strisciuglio, Shuyan Li
 
 </div>
 </div>
