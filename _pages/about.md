@@ -37,7 +37,7 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 
 Traffic Anomaly Detection by Fusing Spatiotemporal Graphs and Visual Perception *IJTST Journal*
 
-**Hongkai Wei**, Yang Yang, Keyu Guo, Yongfeng Bu, Xiangyu Song, Haoxiang Liang, Shijie Sun, Haixiang Hu, Rong Wang, Naveed Akhtard
+**Hongkai Wei**, Yang Yang, Keyu Guo, Yongfeng Bu, Xiangyu Song, Haoxiang Liang, Shijie Sun, Haixiang Hu, Rong Wang, Naveed Akhtar
 
 </div>
 </div>
