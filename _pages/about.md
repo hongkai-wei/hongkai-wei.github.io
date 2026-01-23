@@ -23,14 +23,25 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 One paper accpeted by IJTST Journal! 
-- *2025.08*: &nbsp;🎉🎉 One paper accpeted by INFFUS Journal! 
-- *2025.04*: &nbsp;🎉🎉 One paper accpeted by IJCNN 2025! 
-- *2025.02*: &nbsp;🎉🎉 One paper accpeted by CVPR 2025! 
-- *2025.02*: &nbsp;🎉🎉 One paper accpeted by CMPB Journal! 
-- *2024.12*: &nbsp;🎉🎉 One paper accpeted by ICASSP 2025! 
+- *2026.01*: &nbsp;🎉🎉 One First Author paper accpeted by ICASSP 2026! 
+- *2025.11*: &nbsp;🎉🎉 One First Author accpeted by IJTST Journal! 
+- *2025.08*: &nbsp;🎉🎉 One Co-Author paper accpeted by INFFUS Journal! (Congrats Keyu)
+- *2025.04*: &nbsp;🎉🎉 One Co-Author paper accpeted by IJCNN 2025! (Congrats Keyu)
+- *2025.02*: &nbsp;🎉🎉 One First Author paper accpeted by CVPR 2025!
+- *2025.02*: &nbsp;🎉🎉 One First Author paper accpeted by CMPB Journal!
+- *2024.12*: &nbsp;🎉🎉 One First Author paper accpeted by ICASSP 2025! 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/TDNC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Token Differential Neural Computer for 3D Biomedical Image Analysis *ICASSP 2026*
+
+**Hongkai Wei**, Keyu Guo, Rong Wang, Haixiang Hu, Long Li, Yongfeng Bu, Xiangyu Song, Shijie Sun
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJTST Journal</div><img src='images/VTAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
