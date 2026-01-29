@@ -23,6 +23,7 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One Co-First Author paper accpeted by Neurocomputing Journal! (Congrats Keyu)
 - *2026.01*: &nbsp;🎉🎉 One First Author paper accpeted by ICASSP 2026! 
 - *2025.11*: &nbsp;🎉🎉 One First Author paper accpeted by IJTST Journal! 
 - *2025.08*: &nbsp;🎉🎉 One Co-Author paper accpeted by INFFUS Journal! (Congrats Keyu)
@@ -32,6 +33,16 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 - *2024.12*: &nbsp;🎉🎉 One First Author paper accpeted by ICASSP 2025! 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing Journal</div><img src='images/ArgusNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ArgusNet: Understanding 3D Scenes More Like Humans *Neurocomputing Journal*
+
+Keyu Guo, **Hongkai Wei**, Yongle Huanga, Xiangyu Songb,, Shijie Sun, Mingtao Feng, Huansheng Song, Jianxin Li, Yongjun Zhang
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/TDNC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
