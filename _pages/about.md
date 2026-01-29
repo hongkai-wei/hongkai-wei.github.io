@@ -39,7 +39,7 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 
 ArgusNet: Understanding 3D Scenes More Like Humans *Neurocomputing Journal*
 
-Keyu Guo, **Hongkai Wei**, Yongle Huanga, Xiangyu Songb,, Shijie Sun, Mingtao Feng, Huansheng Song, Jianxin Li, Yongjun Zhang
+Keyu Guo, **Hongkai Wei**, Yongle Huang, Xiangyu Song, Shijie Sun, Mingtao Feng, Huansheng Song, Jianxin Li, Yongjun Zhang
 
 </div>
 </div>
