@@ -23,6 +23,7 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One First Author paper accpeted by IEEE TIP Journal!
 - *2026.01*: &nbsp;🎉🎉 One Co-First Author paper accpeted by Neurocomputing Journal! (Congrats Keyu)
 - *2026.01*: &nbsp;🎉🎉 One First Author paper accpeted by ICASSP 2026! 
 - *2025.11*: &nbsp;🎉🎉 One First Author paper accpeted by IJTST Journal! 
