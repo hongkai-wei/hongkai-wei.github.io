@@ -19,7 +19,7 @@ redirect_from:
 
 **Nice to meet you, I am Hongkai Wei (魏弘凯)!**
 
-I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), supervised by [**Prof. Huansheng Song (宋焕生)**](https://js.chd.edu.cn/xxgcxy/shs), co-supervised by [**Prof. Shijie Sun (孙士杰)**](https://js.chd.edu.cn/sjkxyrgzn/ssj102). Currently, I am a Visiting Ph.D. Student at [**The University of Melbourne**](https://www.unimelb.edu.au/), working closely with [**Prof. Naveed Akhtar**](https://findanexpert.unimelb.edu.au/profile/1050019-naveed-akhtar). I received the B.S. degree from [**Chengdu University**](https://www.cdu.edu.cn).
+I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), supervised by [**Prof. Huansheng Song (宋焕生)**](https://js.chd.edu.cn/xxgcxy/shs), co-supervised by [**Prof. Shijie Sun (孙士杰)**](https://js.chd.edu.cn/sjkxyrgzn/ssj102). Currently, I am a Visiting Ph.D. Student at [**The University of Melbourne**](https://www.unimelb.edu.au/), working closely with [**Prof. Naveed Akhtar**](https://findanexpert.unimelb.edu.au/profile/1050019-naveed-akhtar). I received the B.Eng. degree from [**Chengdu University**](https://www.cdu.edu.cn).
 
 
 # 🔥 News
@@ -127,7 +127,7 @@ Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 # 📖 Educations
 - *2025.10 - now*, Computing and Information Systems, Visiting Ph.D., The University of Melbourne, Melbourne, Victoria, Australia.
 - *2023.09 - now*, Traffic Information Engineering and Control, Ph.D., Chang'an University, Xi'an, Shaanxi, China.
-- *2019.09 - 2023.06*, Computer Science and Technology, B.S., Chengdu University, Chengdu, Sichuan, China.
+- *2019.09 - 2023.06*, Computer Science and Technology, B.Eng., Chengdu University, Chengdu, Sichuan, China.
 
 # 💬 Contact
 - **hongkaiwei@chd.edu.cn (Main)**
