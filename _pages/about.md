@@ -35,10 +35,20 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP Journal</div><img src='images/MoMo3DVLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Monocular Multi-object 3D Visual Language Tracking *IEEE TIP Journal*
+
+**Hongkai Wei**, Rong Wang, Haixiang Hu, Shijie Sun, Xiangyu Song, Mingtao Feng, Keyu Guo, Yongle Huang, Hua Cui, Naveed Akhtar
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing Journal</div><img src='images/ArgusNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-ArgusNet: Understanding 3D Scenes More Like Humans *Neurocomputing Journal*
+[ArgusNet: Understanding 3D Scenes More Like Humans](https://www.sciencedirect.com/science/article/pii/S0925231226002924) *Neurocomputing Journal*
 
 Keyu Guo, **Hongkai Wei**, Yongle Huang, Xiangyu Song, Shijie Sun, Mingtao Feng, Huansheng Song, Jianxin Li, Yongjun Zhang
 
