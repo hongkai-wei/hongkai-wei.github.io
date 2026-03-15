@@ -141,11 +141,16 @@ Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 
 # 🌐 Professional Services
 **Journal Reviewer**
-- IEEE Transactions on Image Processing (TIP)
+- Journal of the ACM (JACM)
+- ACM Transactions on Graphics (TOG)
+- ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
+- ACM Transactions on Computer Systems (TOCS)
+- ACM Computing Surveys (CSUR)
 
 **Conference Reviewer**
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)
 - European Conference on Computer Vision (ECCV 2026)
+- International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)
 
 # 💬 Contact
 - **hongkaiwei@chd.edu.cn (Main)**
