@@ -139,6 +139,13 @@ Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 - *2023.09 - now*, Traffic Information Engineering and Control, Ph.D., Chang'an University, Xi'an, Shaanxi, China.
 - *2019.09 - 2023.06*, Computer Science and Technology, B.Eng., Chengdu University, Chengdu, Sichuan, China.
 
+# 🌐 Professional Services
+**Conference Reviewer**
+- IEEE Transactions on Image Processing (TIP)
+**Conference Reviewer**
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)
+- European Conference on Computer Vision (ECCV 2026)
+
 # 💬 Contact
 - **hongkaiwei@chd.edu.cn (Main)**
 - hongkai.wei@student.unimelb.edu.au
