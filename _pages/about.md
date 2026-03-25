@@ -148,7 +148,6 @@ Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 - ACM Computing Surveys (CSUR)
 
 **Conference Reviewer**
-- Annual Conference on Neural Information Processing Systems (NeurIPS 2026)
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)
 - European Conference on Computer Vision (ECCV 2026)
 - International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)
