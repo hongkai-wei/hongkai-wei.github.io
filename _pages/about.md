@@ -21,6 +21,9 @@ redirect_from:
 
 I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), supervised by [**Prof. Huansheng Song (宋焕生)**](https://js.chd.edu.cn/xxgcxy/shs), co-supervised by [**Prof. Shijie Sun (孙士杰)**](https://js.chd.edu.cn/sjkxyrgzn/ssj102). Currently, I am a Visiting Ph.D. Student at [**The University of Melbourne**](https://www.unimelb.edu.au/), working closely with [**Prof. Naveed Akhtar**](https://findanexpert.unimelb.edu.au/profile/1050019-naveed-akhtar). I received the B.Eng. degree from [**Chengdu University**](https://www.cdu.edu.cn).
 
+I am always happy to connect with researchers and collaborators who share **similar interests**. If you believe there is a **suitable direction** for collaboration and feel that my background could be of value, I would sincerely appreciate hearing from you. I expect to **graduate in 2028** and am currently seeking **suitable opportunities**, including **internships**, as well as **future faculty, postdoctoral, or research positions**. Please feel free to contact me at **hongkaiwei@chd.edu.cn**.
+.
+
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One First Author paper accpeted by IEEE TIP Journal!
