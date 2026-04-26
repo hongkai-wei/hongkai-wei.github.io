@@ -61,7 +61,7 @@ Keyu Guo, **Hongkai Wei**, Yongle Huang, Xiangyu Song, Shijie Sun, Mingtao Feng,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/TDNC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Token Differential Neural Computer for 3D Biomedical Image Analysis *ICASSP 2026*
+[Token Differential Neural Computer for 3D Biomedical Image Analysis ](https://ieeexplore.ieee.org/abstract/document/11462503) *ICASSP 2026*
 
 **Hongkai Wei**, Keyu Guo, Rong Wang, Haixiang Hu, Long Li, Yongfeng Bu, Xiangyu Song, Shijie Sun
 
@@ -74,26 +74,6 @@ Token Differential Neural Computer for 3D Biomedical Image Analysis *ICASSP 2026
 Traffic Anomaly Detection by Fusing Spatiotemporal Graphs and Visual Perception *IJTST Journal*
 
 **Hongkai Wei**, Yang Yang, Keyu Guo, Yongfeng Bu, Xiangyu Song, Haoxiang Liang, Shijie Sun, Haixiang Hu, Rong Wang, Naveed Akhtar
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS Journal</div><img src='images/VGSurvey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Visual Grounding in 2D and 3D: A unified perspective and survey](https://www.sciencedirect.com/science/article/pii/S1566253525006979) *INFFUS Journal*
-
-Keyu Guo, Yongle Huang, Tinglei Jia, Xiangyu Song, Shijie Sun, **Hongkai Wei**, Xian-Feng Han, Shuwen Huang, Nicola Strisciuglio, Shuyan Li
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='images/MSALNet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MSALNet: Capturing Contextual Relationships for Monocular 3D Visual Grounding](https://ieeexplore.ieee.org/document/11227744) *IJCNN 2025*
-
-Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 
 </div>
 </div>
@@ -151,9 +131,11 @@ Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 - ACM Computing Surveys (CSUR)
 
 **Conference Reviewer**
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)
-- European Conference on Computer Vision (ECCV 2026)
-- International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+- Annual Conference on Neural Information Processing Systems (NeurIPS)
+- ACM International Conference on Multimedia (ACMMM)
+- European Conference on Computer Vision (ECCV)
+- International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 
 # 💬 Contact
 - **hongkaiwei@chd.edu.cn (Main)**
