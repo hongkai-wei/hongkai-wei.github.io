@@ -30,8 +30,6 @@ I am always happy to connect with researchers and collaborators who share **simi
 - *2026.01*: &nbsp;🎉🎉 One Co-First Author paper accpeted by Neurocomputing Journal! (Congrats Keyu)
 - *2026.01*: &nbsp;🎉🎉 One First Author paper accpeted by ICASSP 2026! 
 - *2025.11*: &nbsp;🎉🎉 One First Author paper accpeted by IJTST Journal! 
-- *2025.08*: &nbsp;🎉🎉 One Co-Author paper accpeted by INFFUS Journal! (Congrats Keyu)
-- *2025.04*: &nbsp;🎉🎉 One Co-Author paper accpeted by IJCNN 2025! (Congrats Keyu)
 - *2025.02*: &nbsp;🎉🎉 One First Author paper accpeted by CVPR 2025!
 - *2025.02*: &nbsp;🎉🎉 One First Author paper accpeted by CMPB Journal!
 - *2024.12*: &nbsp;🎉🎉 One First Author paper accpeted by ICASSP 2025! 
