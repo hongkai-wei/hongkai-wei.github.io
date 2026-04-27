@@ -26,6 +26,7 @@ I am always happy to connect with researchers and collaborators who share **simi
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One Co-First Author paper accpeted by ESWA Journal! (Congrats Keyu)
 - *2026.01*: &nbsp;🎉🎉 One First Author paper accpeted by IEEE TIP Journal!
 - *2026.01*: &nbsp;🎉🎉 One Co-First Author paper accpeted by Neurocomputing Journal! (Congrats Keyu)
 - *2026.01*: &nbsp;🎉🎉 One First Author paper accpeted by ICASSP 2026! 
@@ -35,6 +36,16 @@ I am always happy to connect with researchers and collaborators who share **simi
 - *2024.12*: &nbsp;🎉🎉 One First Author paper accpeted by ICASSP 2025! 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA Journal</div><img src='images/Uni3DGC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+From Perception to Cognition: Unifying Multi-object 3D Visual Grounding and Dense Captioning in Monocular Images *ESWA Journal*
+
+Keyu Guo, Yongle Huang, **Hongkai Wei**, Shijie Sun, Xiangyu Song, Mingtao Feng, Tiantian Wang, Shan Yu, Huansheng Song
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP Journal</div><img src='images/MoMo3DVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
