@@ -150,3 +150,6 @@ Traffic Anomaly Detection by Fusing Spatiotemporal Graphs and Visual Perception 
 - **hongkaiwei@chd.edu.cn (Main)**
 - hongkai.wei@student.unimelb.edu.au
 - whkai666@gmail.com
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=acQMyjBrgZzwG_NXCu7xlvhJr7JqrtZyIzAxi1YYK2E&cl=ffffff&w=a"></script>
+**Thanks for Attention！**
