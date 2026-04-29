@@ -152,4 +152,4 @@ Traffic Anomaly Detection by Fusing Spatiotemporal Graphs and Visual Perception 
 - whkai666@gmail.com
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=acQMyjBrgZzwG_NXCu7xlvhJr7JqrtZyIzAxi1YYK2E&cl=ffffff&w=a"></script>
-**Thanks for Attention！**
+The visitors recorded from April 29th, 2026. **Thanks for Attention！**
