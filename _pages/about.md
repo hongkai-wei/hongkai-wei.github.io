@@ -40,7 +40,8 @@ I am always happy to connect with researchers and collaborators who share **simi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA Journal</div><img src='images/Uni3DGC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-From Perception to Cognition: Unifying Multi-object 3D Visual Grounding and Dense Captioning in Monocular Images *ESWA Journal*
+[From Perception to Cognition: Unifying Multi-object 3D Visual Grounding and Dense Captioning in Monocular Images](https://www.sciencedirect.com/science/article/pii/S0957417426015708) *ESWA Journal*
+
 
 Keyu Guo, Yongle Huang, **Hongkai Wei**, Shijie Sun, Xiangyu Song, Mingtao Feng, Tiantian Wang, Shan Yu, Huansheng Song
 
