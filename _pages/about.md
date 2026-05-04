@@ -139,6 +139,7 @@ Traffic Anomaly Detection by Fusing Spatiotemporal Graphs and Visual Perception 
 - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
 - ACM Transactions on Computer Systems (TOCS)
 - ACM Computing Surveys (CSUR)
+- Neurocomputing
 
 **Conference Reviewer**
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
