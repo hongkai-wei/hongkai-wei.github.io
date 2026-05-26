@@ -118,7 +118,9 @@ I am always happy to connect with researchers and collaborators who share **simi
 - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
 - ACM Transactions on Computer Systems (TOCS)
 - ACM Computing Surveys (CSUR)
+- IEEE Transactions on Automation Science and Engineering (T-ASE)
 - Neurocomputing
+- Discover Computing
 
 **Conference Reviewer**
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
@@ -129,6 +131,7 @@ I am always happy to connect with researchers and collaborators who share **simi
 
 # 💬 Contact
 - **hongkaiwei@chd.edu.cn (Main)**
+- hkwei@chd.edu.cn
 - hongkai.wei@student.unimelb.edu.au
 - whkai666@gmail.com
 
