@@ -26,13 +26,14 @@ I am always happy to connect with researchers and collaborators who share **simi
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 One Co-First Author paper accpeted by ESWA Journal! (Congrats Keyu)
+- *2026.05*: &nbsp;🎉🎉 One Co-First Author paper accpeted by Information Fusion! (Congrats Keyu)
+- *2026.04*: &nbsp;🎉🎉 One Co-First Author paper accpeted by Expert Systems With Applications (ESWA)! (Congrats Keyu)
 - *2026.01*: &nbsp;🎉🎉 One First Author paper accpeted by IEEE TIP Journal!
-- *2026.01*: &nbsp;🎉🎉 One Co-First Author paper accpeted by Neurocomputing Journal! (Congrats Keyu)
+- *2026.01*: &nbsp;🎉🎉 One Co-First Author paper accpeted by Neurocomputing! (Congrats Keyu)
 - *2026.01*: &nbsp;🎉🎉 One First Author paper accpeted by ICASSP 2026! 
-- *2025.11*: &nbsp;🎉🎉 One First Author paper accpeted by IJTST Journal! 
+- *2025.11*: &nbsp;🎉🎉 One First Author paper accpeted by International Journal of Transportation Science and Technology (IJTST)! 
 - *2025.02*: &nbsp;🎉🎉 One First Author paper accpeted by CVPR 2025!
-- *2025.02*: &nbsp;🎉🎉 One First Author paper accpeted by CMPB Journal!
+- *2025.02*: &nbsp;🎉🎉 One First Author paper accpeted by Computer Methods and Programs in Biomedicine (CMPB)!
 - *2024.12*: &nbsp;🎉🎉 One First Author paper accpeted by ICASSP 2025! 
 
 # 📝 Publications 
