@@ -119,8 +119,9 @@ I am always happy to connect with researchers and collaborators who share **simi
 - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
 - ACM Transactions on Computer Systems (TOCS)
 - ACM Computing Surveys (CSUR)
-- IEEE Transactions on Automation Science and Engineering (T-ASE)
+- IEEE Transactions on Automation Science and Engineering (TASE)
 - Neurocomputing
+- Image and Vision Computing
 - Discover Computing
 
 **Conference Reviewer**
@@ -129,6 +130,7 @@ I am always happy to connect with researchers and collaborators who share **simi
 - ACM International Conference on Multimedia (ACMMM)
 - European Conference on Computer Vision (ECCV)
 - International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+- Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
 
 # 💬 Contact
 - **hongkaiwei@chd.edu.cn (Main)**
