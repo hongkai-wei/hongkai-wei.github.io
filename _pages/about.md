@@ -118,14 +118,18 @@ I am always happy to connect with researchers and collaborators who share **simi
 - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
 - ACM Transactions on Computer Systems (TOCS)
 - ACM Computing Surveys (CSUR)
+- IEEE Transactions on Multimedia (TMM)
 - IEEE Transactions on Automation Science and Engineering (TASE)
 - Neurocomputing
 - Image and Vision Computing
 - Discover Computing
+- Computer Science and Information Systems
+- IEEE Networking Letters
 
 **Conference Reviewer**
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 - Annual Conference on Neural Information Processing Systems (NeurIPS)
+- Association for the Advancement of Artificial Intelligence (AAAI)
 - ACM International Conference on Multimedia (ACMMM)
 - European Conference on Computer Vision (ECCV)
 - International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
