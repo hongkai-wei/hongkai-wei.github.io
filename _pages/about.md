@@ -114,6 +114,7 @@ I am always happy to connect with researchers and collaborators who share **simi
 # 🌐 Professional Services
 **Journal Reviewer**
 - Journal of the ACM (JACM)
+- Transactions on Machine Learning Research (TMLR)
 - ACM Transactions on Graphics (TOG)
 - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
 - ACM Transactions on Computer Systems (TOCS)
