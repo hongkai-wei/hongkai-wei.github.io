@@ -25,6 +25,7 @@ I am always happy to connect with researchers and collaborators who share **simi
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 One First Author paper accpeted by Pattern Recognition!
 - *2026.05*: &nbsp;🎉🎉 One Co-First Author paper accpeted by Information Fusion! (Congrats Keyu)
 - *2026.04*: &nbsp;🎉🎉 One Co-First Author paper accpeted by Expert Systems With Applications (ESWA)! (Congrats Keyu)
 - *2026.01*: &nbsp;🎉🎉 One First Author paper accpeted by IEEE TIP Journal!
@@ -36,6 +37,16 @@ I am always happy to connect with researchers and collaborators who share **simi
 - *2024.12*: &nbsp;🎉🎉 One First Author paper accpeted by ICASSP 2025! 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/Mg3DVLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-granularity 3D Visual Language Tracking from monocular videos: A benchmark and model](https://www.sciencedirect.com/science/article/abs/pii/S0031320326017358) *Pattern Recognition*
+
+**Hongkai Wei**, Rong Wang, Keyu Guo, Yongle Huang, Shijie Sun, Xiangyu Song, Mingtao Feng, Naveed Akhtar
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP Journal</div><img src='images/MoMo3DVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
