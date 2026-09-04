@@ -131,6 +131,7 @@ I am always happy to connect with researchers and collaborators who share **simi
 - ACM Transactions on Computer Systems (TOCS)
 - ACM Computing Surveys (CSUR)
 - IEEE Transactions on Multimedia (TMM)
+- Information Fusion
 - IEEE Transactions on Automation Science and Engineering (TASE)
 - Neurocomputing
 - Image and Vision Computing
