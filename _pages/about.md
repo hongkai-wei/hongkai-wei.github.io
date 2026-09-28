@@ -134,10 +134,8 @@ I am always happy to connect with researchers and collaborators who share **simi
 - Information Fusion
 - IEEE Transactions on Automation Science and Engineering (TASE)
 - Neurocomputing
+- Biomedical Signal Processing and Control
 - Image and Vision Computing
-- Discover Computing
-- Computer Science and Information Systems
-- IEEE Networking Letters
 
 **Conference Reviewer**
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
