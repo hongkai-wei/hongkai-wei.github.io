@@ -19,10 +19,11 @@ redirect_from:
 
 **Hi, I am Hongkai Wei (魏弘凯)!**
 
-I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), supervised by [**Prof. Huansheng Song (宋焕生)**](https://js.chd.edu.cn/xxgcxy/shs), co-supervised by [**Prof. Shijie Sun (孙士杰)**](https://js.chd.edu.cn/sjkxyrgzn/ssj102). Currently, I am a Visiting Ph.D. Student at [**The University of Melbourne**](https://www.unimelb.edu.au/), working closely with [**Prof. Naveed Akhtar**](https://findanexpert.unimelb.edu.au/profile/1050019-naveed-akhtar). I received the B.Eng. degree from [**Chengdu University**](https://www.cdu.edu.cn).
+I am a Ph.D. student at [**Chang'an University**](https://www.chd.edu.cn), supervised by [**Prof. Huansheng Song (宋焕生)**](https://js.chd.edu.cn/xxgcxy/shs), co-supervised by [**Prof. Shijie Sun (孙士杰)**](https://js.chd.edu.cn/sjkxyrgzn/ssj102) and [**Prof. Xiangyu Song (宋翔宇)**](https://js.chd.edu.cn/sjkxyrgzn/sxy1/list.htm). I was also a Visiting Ph.D. Student at at [**The University of Melbourne**](https://www.unimelb.edu.au/), where I worked closely with [**Prof. Naveed Akhtar**](https://findanexpert.unimelb.edu.au/profile/1050019-naveed-akhtar). I received the B.Eng. degree from [**Chengdu University**](https://www.cdu.edu.cn).
 
-I am always happy to connect with researchers and collaborators who share **similar interests**. Please feel free to contact me at **hongkaiwei@chd.edu.cn**.
+My research interests broadly lie in computer vision, multimodal learning, visual-language understanding, and intelligent transportation systems. I am always happy to connect with researchers and collaborators who share similar interests.
 
+I am **currently open to research internship and visiting opportunities**. If you are interested in collaboration or have relevant opportunities, please feel free to contact me at **hongkaiwei@chd.edu.cn**.
 
 # 🔥 News
 - *2026.08*: &nbsp;🎉🎉 One First Author paper accpeted by Pattern Recognition!
@@ -119,7 +120,7 @@ I am always happy to connect with researchers and collaborators who share **simi
 
 # 📖 Educations
 - *2025.10 - now*, Computing and Information Systems, Visiting Ph.D., The University of Melbourne, Melbourne, Victoria, Australia.
-- *2023.09 - now*, Traffic Information Engineering and Control, Ph.D., Chang'an University, Xi'an, Shaanxi, China.
+- *2023.09 - 2026.10*, Traffic Information Engineering and Control, Ph.D., Chang'an University, Xi'an, Shaanxi, China.
 - *2019.09 - 2023.06*, Computer Science and Technology, B.Eng., Chengdu University, Chengdu, Sichuan, China.
 
 # 🌐 Professional Services
