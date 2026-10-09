@@ -19,7 +19,7 @@ redirect_from:
 
 **Hi, I am Hongkai Wei (魏弘凯)!**
 
-I am a Ph.D. student at [**Chang'an University**](https://www.chd.edu.cn), supervised by [**Prof. Huansheng Song (宋焕生)**](https://js.chd.edu.cn/xxgcxy/shs), co-supervised by [**Prof. Shijie Sun (孙士杰)**](https://js.chd.edu.cn/sjkxyrgzn/ssj102) and [**Prof. Xiangyu Song (宋翔宇)**](https://js.chd.edu.cn/sjkxyrgzn/sxy1/list.htm). I was also a Visiting Ph.D. Student at at [**The University of Melbourne**](https://www.unimelb.edu.au/), where I worked closely with [**Prof. Naveed Akhtar**](https://findanexpert.unimelb.edu.au/profile/1050019-naveed-akhtar). I received the B.Eng. degree from [**Chengdu University**](https://www.cdu.edu.cn).
+I am a Ph.D. student at [**Chang'an University (长安大学)**](https://www.chd.edu.cn), supervised by [**Prof. Huansheng Song (宋焕生)**](https://js.chd.edu.cn/xxgcxy/shs), co-supervised by [**Prof. Shijie Sun (孙士杰)**](https://js.chd.edu.cn/sjkxyrgzn/ssj102) and [**Prof. Xiangyu Song (宋翔宇)**](https://js.chd.edu.cn/sjkxyrgzn/sxy1/list.htm). I was also a Visiting Ph.D. Student at at [**The University of Melbourne**](https://www.unimelb.edu.au/), where I worked closely with [**Prof. Naveed Akhtar**](https://findanexpert.unimelb.edu.au/profile/1050019-naveed-akhtar). I received the B.Eng. degree from [**Chengdu University (成都大学)**](https://www.cdu.edu.cn).
 
 My research interests broadly lie in computer vision, multimodal learning, visual-language understanding, and intelligent transportation systems. I am always happy to connect with researchers and collaborators who share similar interests.
 
