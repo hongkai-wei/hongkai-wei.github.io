@@ -26,6 +26,7 @@ My research interests broadly lie in computer vision, multimodal learning, visua
 I am **currently open to research internship and visiting opportunities**. If you are interested in collaboration or have relevant opportunities, please feel free to contact me at **hongkaiwei@chd.edu.cn**.
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 I'm honored to be recognized as a Top Reviewer for NeurIPS 2026!
 - *2026.08*: &nbsp;🎉🎉 One First Author paper accpeted by Pattern Recognition!
 - *2026.05*: &nbsp;🎉🎉 One Co-First Author paper accpeted by Information Fusion! (Congrats Keyu)
 - *2026.04*: &nbsp;🎉🎉 One Co-First Author paper accpeted by Expert Systems With Applications (ESWA)! (Congrats Keyu)
@@ -111,11 +112,11 @@ I am **currently open to research internship and visiting opportunities**. If yo
 </div>
 
 # 💫 Honors and Awards 
-
+- *2026.10* **China National Scholarship (Ph.D. Student).**
 - *2025.05* China Scholarship Council (CSC) Scholarship for the China-Built High-Level University Consortium Program.
 - *2024.12* National First Prize of China Graduate Contest on Smart-city Technology and Creative Design.
 - *2023.06* Outstanding Graduates of Sichuan Province.
-- *2021.12* China National Scholarship.
+- *2021.12* **China National Scholarship (Undergraduate Student).**
 - *2021.10* National Third Prize of China University Computer Competition.
 
 # 📖 Educations
@@ -139,10 +140,10 @@ I am **currently open to research internship and visiting opportunities**. If yo
 - Image and Vision Computing
 
 **Conference Reviewer**
+- Annual Conference on Neural Information Processing Systems (NeurIPS) — **Top Reviewer**
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-- Annual Conference on Neural Information Processing Systems (NeurIPS)
 - Association for the Advancement of Artificial Intelligence (AAAI)
-- ACM International Conference on Multimedia (ACMMM)
+- ACM International Conference on Multimedia (ACMMM) —
 - European Conference on Computer Vision (ECCV)
 - International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 - International Joint Conference on Neural Networks (IJCNN)
