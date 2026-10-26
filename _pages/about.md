@@ -133,11 +133,12 @@ I am **currently open to research internship and visiting opportunities**. If yo
 - ACM Transactions on Computer Systems (TOCS)
 - ACM Computing Surveys (CSUR)
 - IEEE Transactions on Multimedia (TMM)
-- Information Fusion
+- Pattern Recognition (PR)
+- Information Fusion (INFFUS)
 - IEEE Transactions on Automation Science and Engineering (TASE)
-- Neurocomputing
-- Biomedical Signal Processing and Control
-- Image and Vision Computing
+- Neurocomputing (NEUCOM)
+- Biomedical Signal Processing and Control (BSPC)
+- Image and Vision Computing (IVC)
 
 **Conference Reviewer**
 - Annual Conference on Neural Information Processing Systems (NeurIPS) — **Top Reviewer**
