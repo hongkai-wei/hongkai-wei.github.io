@@ -139,6 +139,7 @@ I am **currently open to research internship and visiting opportunities**. If yo
 - Neurocomputing (NEUCOM)
 - Biomedical Signal Processing and Control (BSPC)
 - Image and Vision Computing (IVC)
+- Pattern Recognition Letters (PRL)
 
 **Conference Reviewer**
 - Annual Conference on Neural Information Processing Systems (NeurIPS) — **Top Reviewer**
