@@ -120,8 +120,8 @@ I am **currently open to research internship and visiting opportunities**. If yo
 - *2021.10* National Third Prize of China University Computer Competition.
 
 # 📖 Educations
-- *2025.10 - now*, Computing and Information Systems, Visiting Ph.D., The University of Melbourne, Melbourne, Victoria, Australia.
-- *2023.09 - 2026.10*, Traffic Information Engineering and Control, Ph.D., Chang'an University, Xi'an, Shaanxi, China.
+- *2023.09 - now*, Traffic Information Engineering and Control, Ph.D., Chang'an University, Xi'an, Shaanxi, China.
+- *2025.10 - 2026.10*, Computing and Information Systems, Visiting Ph.D., The University of Melbourne, Melbourne, Victoria, Australia.
 - *2019.09 - 2023.06*, Computer Science and Technology, B.Eng., Chengdu University, Chengdu, Sichuan, China.
 
 # 🌐 Professional Services
