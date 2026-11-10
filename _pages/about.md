@@ -154,7 +154,6 @@ I am **currently open to research internship and visiting opportunities**. If yo
 # 💬 Contact
 - **hongkaiwei@chd.edu.cn (Main)**
 - hkwei@chd.edu.cn
-- hongkai.wei@student.unimelb.edu.au
 - whkai666@gmail.com
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=acQMyjBrgZzwG_NXCu7xlvhJr7JqrtZyIzAxi1YYK2E&cl=ffffff&w=a"></script>
