@@ -135,6 +135,7 @@ I am **currently open to research internship and visiting opportunities**. If yo
 - IEEE Transactions on Multimedia (TMM)
 - Pattern Recognition (PR)
 - Information Fusion (INFFUS)
+- International Journal of Applied Earth Observation and Geoinformation (JAG)
 - IEEE Transactions on Automation Science and Engineering (TASE)
 - Neurocomputing (NEUCOM)
 - Biomedical Signal Processing and Control (BSPC)
